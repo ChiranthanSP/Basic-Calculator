@@ -26,7 +26,9 @@ print('The quotient is=',a3)
 
 
 print('\n')
+
 print('\n')
+
 print('\n')
-print('\n')
+
 print('\n')
